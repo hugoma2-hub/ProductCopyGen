@@ -1,4 +1,4 @@
-ProductCopyGen es una herramienta web que genera automáticamente descripciones atractivas para productos, ideal para tiendas online, emprendedores y marcas que quieren aumentar sus ventas rápidamente.
+ProductCopyes una herramienta web que genera automáticamente descripciones atractivas para productos, ideal para tiendas online, emprendedores y marcas que quieren aumentar sus ventas rápidamente.
 Características:
 
 Genera descripciones en segundos a partir del nombre y la categoría del producto.
